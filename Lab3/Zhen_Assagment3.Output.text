@@ -1,0 +1,118 @@
+class reverseWords :
+
+Please type something:
+The worms crawl in the worms crawl out
+Reverse:
+out crawl worms the in crawl worms The
+
+
+class PostfixEvaluator:
+
+13 2 * 5 / 6 2 5 * - +
+1
+
+
+class newMaintainQueue:
+
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Mary
+Enter their priority level(High, Med, Low)
+High
+Customer Mary added to the queue. The priority is High
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Tom
+Enter their priority level(High, Med, Low)
+Med
+Customer Tom added to the queue. The priority is Med
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Sue
+Enter their priority level(High, Med, Low)
+Low
+Customer Sue added to the queue. The priority is Low
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Sally
+Enter their priority level(High, Med, Low)
+Med
+Customer Sally added to the queue. The priority is Med
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Joe
+Enter their priority level(High, Med, Low)
+Low
+Customer Joe added to the queue. The priority is Low
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Jen
+Enter their priority level(High, Med, Low)
+High
+Customer Jen added to the queue. The priority is High
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+High
+Customer Mary is in the High priority
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+Med
+Customer Tom is next in the Medium priority
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+Low
+Customer Sue is next in the Low priority
+Chose from the list: [add, peek, remove, quit]
+remove
+Customer Mary removed from the High priority
+Chose from the list: [add, peek, remove, quit]
+remove
+Customer Tom removed from the Medium priority
+Chose from the list: [add, peek, remove, quit]
+remove
+Customer Sue removed from the Low priority
+Chose from the list: [add, peek, remove, quit]
+add
+Enter new customer name
+Quinn
+Enter their priority level(High, Med, Low)
+High
+Customer Quinn added to the queue. The priority is High
+Chose from the list: [add, peek, remove, quit]
+remove
+Customer Sally removed from the Medium priority
+Chose from the list: [add, peek, remove, quit]
+remove
+Customer Joe removed from the Low priority
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+High
+Customer Jen is in the High priority
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+Med
+The Medium Queue is empty
+Chose from the list: [add, peek, remove, quit]
+peek
+Enter the priority you want check(High, Med, Low)
+Low
+The Low Queue is empty
+Chose from the list: [add, peek, remove, quit]
+quit
+Leaving High queue. 
+Number of customers in the High queue is 2
+Leaving Medium queue. "
+Number of customers in the Medium queue is 0
+Leaving Low queue. "
+Number of customers in the Low queue is 0
